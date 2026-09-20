@@ -166,7 +166,7 @@ curl -X POST --location 'https://<YOUR_DEPLOYED_DOMAIN>/verify' \
 
 ### OpenAI 格式
 
-本项目兼容 OpenAI 的 API 格式，你可以通过 `/chat` 或 `/chat/completions` 端点来发送请求。
+本项目兼容 OpenAI 的 API 格式，你可以通过 `/chat` 或 `/chat/completions` 端点来发送请求。。。
 
 **Curl 示例:**
 ```bash
